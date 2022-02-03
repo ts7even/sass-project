@@ -1,5 +1,10 @@
-# eda-sass-project
-Push our code into the repository 
+# SASS Project
+Click on main.py for the code and copy/paste  
+
+Here is the SASS Assignment for class that I made. Even though it is pretty basic python, I think you can learn some of python's systax and the pandas library. 
+- The problem is that for the Teachers Age, I'm trying to figure out the average or mean of the funciton. Since it is a Range. 
+- Another problem is that this sheet that is running the program might be the Private Schools Sheet. 
+
 
 # Instructions to push into github 
 to push into github 
