@@ -33,10 +33,17 @@ Make sure your are in your virtual enviorment before pushing to github or else y
 
 # Steps I took 
 create folder 
+
 open folder in vscode 
+
 create py file 
+
 open terminal and create venv
+
 add python libraires 
+
 create sources folder
+
 inside of sources create dataset folder 
+
 place datasheet into dataset folder
