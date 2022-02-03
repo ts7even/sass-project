@@ -12,7 +12,7 @@ git status
 
 git commit -m "Commit Name"
 
-git remote add origin https://github.com/ts7even/eda-sass-project
+git remote add origin https://github.com/ts7even/sass-project
 
 git push -u origin master 
 
