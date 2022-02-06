@@ -1,0 +1,22 @@
+Public School Teacher Listing Form 93.1 92.2 †
+Private School Teacher Listing Form 85.8 87.0 †
+BIA School Teacher Listing Form 97.5 97.8 †
+Public Charter School Teacher Listing Form 91.3 91.4 †
+School District (SASS-1A) 87.1 88.6 †
+Public School (SASS-3A) 88.5 88.5 †
+Private School (SASS-3B) 80.8 79.8 †
+BIA School (SASS-3C) 96.7 96.7 †
+Public Charter School (SASS-3D) 86.1 86.1 †
+Public School Principal (SASS-2A) 90.6 90.0 †
+Private School Principal (SASS-2B) 85.8 84.8 †
+BIA School Principal (SASS-2C) 93.3 93.3 †
+Public Charter School Principal (SASS-2D) 90.2 90.2 †
+Public Teacher (SASS-4A) 81.2 83.1 76.6
+Private Teacher (SASS-4B) 74.9 77.2 67.2
+BIA Teacher (SASS-4C) 84.4 87.4 85.5
+Public Charter Teacher (SASS-4D) 78.7 78.6 71.8
+Public Library Media Center (LS-1A) 87.1 94.7 †
+Private Library Media Center (LS-1B) 84.1 87.7 †
+BIA Library Media Center (LS-1C) 95.4 95.4 †
+
+

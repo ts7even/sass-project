@@ -32,23 +32,33 @@ git commit -m "Commit Name 2"
 
 git push -u origin master
 
+# To Git Pull into Folder 
+- Make sure to pull before createing a virtual enviorment. Or be CD into the main folder 
+git init 
+
+git pull https://github.com/ts7even/sass-project.git
+
 
 # Venv conflict
-Make sure your are in your virtual enviorment before pushing to github or else your path breaks.
+- Make sure your are in your virtual enviorment before pushing to github or else your path breaks.
 
 # Steps I took 
 create folder 
 
 open folder in vscode 
 
-create py file 
+create main.py file 
 
 open terminal and create venv
 
-add python libraires 
+add python libraires (pandas, openpyxl, bs4, matplotlib)
 
-create sources folder
+create source folder
 
 inside of sources create dataset folder 
 
 place datasheet into dataset folder
+
+# Error Finding Datasheet
+- You need to save all and restart you computer for python to find the enviorment
+I found that shutting off and turning back off works better. 
